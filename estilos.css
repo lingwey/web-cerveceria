@@ -112,11 +112,6 @@ body{
     margin-top: 15px;
 }
 
-.producto{
-    align-items: center;
-    width: 500px;
-}
-
 .producto img {
     height: 250px;
 }
